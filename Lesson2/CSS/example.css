@@ -1,0 +1,40 @@
+table {
+    /* width: 100%; */
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid lightgray;
+    width: 60px;
+    height: 60px;
+}
+
+.gold
+{
+    background: gold;
+    border-color:black;
+
+}
+.red
+{
+    color: red;
+    background: currentColor;
+    border-color: red;
+}
+.darksalmon
+{
+    background: darksalmon;
+    border-color:black;
+
+}
+.grey 
+{
+    background: dimgray;
+    border-color:dimgray;
+}
+.yellow
+{
+    background: gold;
+    border-color: gold;   
+}

@@ -1,0 +1,44 @@
+td {
+    border: 1px solid lightgray;
+    width: 60px;
+    height: 60px;
+}
+
+#1
+{
+    background: gold;
+    border-color:black;
+}
+.block1 { 
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background:white;
+    border:solid 2px lightgray;
+       }
+.block2 { 
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background: white;
+    border: solid 2px lightgray; 
+       }
+.block3 { 
+    width: 500px; 
+     margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background: lightcyan;
+    border: solid 2px lightgray; 
+           }
+.dish1,
+.dish2
+{
+    border: 2px solid grey;
+}
+table
+{
+    border-collapse: collapse;
+}
